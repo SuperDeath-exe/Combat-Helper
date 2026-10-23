@@ -95,9 +95,6 @@ The countdown is a prediction. It corrects itself as the fight goes:
 - **Accuracy:** most specials land within a tick of the countdown. When the boss
   walks, or a signal is missed, a prediction can be one auto (4 ticks, 2.4 s) off.
 - **Until he yells:** NEXT is a prediction. Trust the yell.
-- **Telos's autos:** these are detected through an undocumented game variable that
-  may change or disappear in an update. If it does, the plugin falls back to timers
-  and gets a little less precise.
 - **Plugin API:** it shows no boss animations, projectiles or hitsplats. Everything
   is worked out from yells, HP, the boss bar, game variables and objects.
 
