@@ -1,0 +1,6 @@
+{
+    "name": "combat-helper",
+    "version": "0.1.0",
+    "contactEmailAddress": "your.contact@example.com",
+    "optionalPermissions": ["chatAccess"]
+}

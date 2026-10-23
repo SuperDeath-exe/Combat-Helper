@@ -1,0 +1,4 @@
+# Recorder dumps: they hold chat and positions from real fights, never commit
+*.log
+__pycache__/
+*.pyc
